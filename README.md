@@ -1,5 +1,5 @@
-# html-portfolio
+# HTML Portfolio
 
+# In HTML just a simple portfolio
 
-
-# by Mohammad Ramzan
+# Ⓒ Mohammad Ramzan
